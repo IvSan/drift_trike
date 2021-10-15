@@ -1,43 +1,33 @@
-Предложение: построить к весне дрифт-трайк.
+### Предложение
+Построить к весне дрифт-трайк.
 
 ![Trike](trike.jpeg)
 
-Почему нужна команда? Вместе веселее строить, вместе веселее кататься, бюджет постройки становится намного приятнее. Это классное и уникальное развлечение.
+Почему нужна команда? Вместе веселее строить, вместе веселее кататься, бюджет постройки становится намного приятнее. 
+Это классное и уникальное развлечение.
 
-## Welcome to GitHub Pages
+### План
 
-You can use the [editor on GitHub](https://github.com/IvSan/drift_trike/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### 1. Подготовка
+0. Вдохновиться.
+1. Сбор команды.
+2. Изучение конструкции.
+3. Решить как строим: на ДВС или электро.
+4. Выяснить не нарушим ли мы каких законов и где на нем можно кататься.
+5. Составить простенький договор о партнерском проекте (как скидываемся, как строим, как потом владеем, как храним и как катаемся).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 2. Стягивание ресурсов
+1. Сбор бюджета.
+2. Закупка материалов, узлов и инструмента.
+3. Закладка места постройки.
 
-### Markdown
+#### 2. Постройка
+1. Строим.
+2. Пьем.
+3. Курим.
+4. Строим.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IvSan/drift_trike/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 2. Апофеоз
+1. Катаемся.
+2. Наслаждаемся
+3. Думаем куда его деть
