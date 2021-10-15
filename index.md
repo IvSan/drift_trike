@@ -1,4 +1,4 @@
-![Trike](trike.jpg)
+![Trike](trike.jpeg)
 
 ## Welcome to GitHub Pages
 
